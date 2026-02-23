@@ -1,0 +1,105 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    color: #222;
+}
+
+/* Contenedor principal */
+.newsletter-section {
+    max-width: 700px;
+    padding: 20px;
+}
+
+/* Logo */
+.logo {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.logo-img {
+    width: 60px;
+    height: 60px;
+}
+
+.logo-icon {
+    width: 50px;
+    height: 50px;
+    background-color: #4da3ff;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    margin: 0 auto;
+}
+
+/* Título */
+h1 {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+/* Subtítulo */
+.subtitle {
+    color: #666;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 40px;
+}
+
+/* Tarjeta */
+.card {
+    background: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+/* Input */
+.card input {
+    width: 100%;
+    padding: 15px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    margin-bottom: 15px;
+    font-size: 14px;
+}
+
+/* Botón */
+.card button {
+    width: 100%;
+    padding: 15px;
+    border: none;
+    border-radius: 8px;
+    background-color: #2f49c6;
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+.card button:hover {
+    background-color: #243ba8;
+}
+
+/* Texto pequeño */
+.small-text {
+    font-size: 13px;
+    color: #777;
+    margin-top: 15px;
+}
