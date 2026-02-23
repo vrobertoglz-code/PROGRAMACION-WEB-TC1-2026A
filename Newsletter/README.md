@@ -15,12 +15,6 @@ Diseñar una pagina web que funcione como boletin informativo unicamente utiliza
 ## 🚀 Tecnologías utilizadas
 - HTML  
 - CSS  
-
----
-
-## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
 ---
 
 ## 📝 Reflexión
