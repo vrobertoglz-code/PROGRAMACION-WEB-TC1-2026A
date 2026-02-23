@@ -15,12 +15,6 @@ Deberás desarrollar una página web con HTML y CSS que muestre un listado de ar
 ## 🚀 Tecnologías utilizadas
 - HTML  
 - CSS  
-
----
-
-## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [Pega aquí el deploy de GitHub Pages]
 ---
 
 ## 📝 Reflexión
